@@ -46,7 +46,9 @@ You may also see any lint errors in the console.
 
 ## Team Members
 
-Aryan Verma\
-Abhay Pratap Singh\
+Gaurav Jalkote
+Aalhad Kate
+Abhishek Singh
 Nitigya Joshi
+Anant Chaturvedi
 # Healthcare-website
